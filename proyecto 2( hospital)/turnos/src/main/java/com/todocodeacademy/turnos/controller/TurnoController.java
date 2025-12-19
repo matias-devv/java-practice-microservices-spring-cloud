@@ -1,4 +1,5 @@
 package com.todocodeacademy.turnos.controller;
+import com.todocodeacademy.turnos.dto.TurnoDTO;
 import com.todocodeacademy.turnos.model.Turno;
 import com.todocodeacademy.turnos.service.ITurnoService;
 import java.time.LocalDate;
@@ -22,12 +23,8 @@ public class TurnoController {
     
      //1- crear un nuevo turno
      @PostMapping ("/crear")
-     public String crearTurno ( @RequestBody LocalDate fecha,
-                                                @RequestBody String tratamiento,
-                                                @RequestBody String dniPaciente
-                                                ) {
-         turnoServ.saveTurno(fecha, tratamiento, dniPaciente);
-     
+     public String crearTurno ( @RequestBody TurnoDTO turnoDTO) {
+         turnoServ.saveTurno( turnoDTO.getFecha(), turnoDTO.getTratamiento(), turnoDTO.getDniPaciente() );
          return "Turno creado correctamente";
      }
      
