@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84aa7f3b-3650-47ae-b7a9-6c29c9b146e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/ingredientes/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/ingredientes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/ingredientes/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/ingredientes/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/ingredientes/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/ingredientes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/ingredientes/src/main/java/com/exercise/ingredientes/IngredientesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/ingredientes/src/main/java/com/exercise/ingredientes/controller/IngredienteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/ingredientes/src/main/java/com/exercise/ingredientes/dto/IngredienteDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/ingredientes/src/main/java/com/exercise/ingredientes/model/Ingrediente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/ingredientes/src/main/java/com/exercise/ingredientes/repository/IIngredienteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/ingredientes/src/main/java/com/exercise/ingredientes/service/IIngredienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/ingredientes/src/main/java/com/exercise/ingredientes/service/IngredienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/ingredientes/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/ingredientes/src/test/java/com/exercise/ingredientes/IngredientesApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/src/main/java/com/exercise/platos/PlatosApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/src/main/java/com/exercise/platos/configuration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/src/main/java/com/exercise/platos/controller/PlatoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/src/main/java/com/exercise/platos/dto/IngredienteDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/src/main/java/com/exercise/platos/dto/PlatoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/src/main/java/com/exercise/platos/model/Ingrediente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/src/main/java/com/exercise/platos/model/Plato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/src/main/java/com/exercise/platos/repository/IPlatoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/src/main/java/com/exercise/platos/service/IPlatoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/src/main/java/com/exercise/platos/service/PlatoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercise 1/platos/src/test/java/com/exercise/platos/PlatosApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../probando Cloud/probandoCloud/src/main/java/com/spring/probandoCloud/controller/PokemonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../probando Cloud/probandoCloud/src/main/java/com/spring/probandoCloud/dto/PokemonDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../probando Cloud/probandoCloud/src/main/java/com/spring/probandoCloud/repository/PokeAPIClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyecto 1 (hospital)/pacientes/src/main/java/com/todocodeacademy/pacientes/controller/PacienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../proyecto 1 (hospital)/pacientes/src/main/java/com/todocodeacademy/pacientes/controller/PacienteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyecto 1 (hospital)/pacientes/src/main/java/com/todocodeacademy/pacientes/repository/IPacienteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../proyecto 1 (hospital)/pacientes/src/main/java/com/todocodeacademy/pacientes/repository/IPacienteRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyecto 1 (hospital)/pacientes/src/main/java/com/todocodeacademy/pacientes/service/IPacienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../proyecto 1 (hospital)/pacientes/src/main/java/com/todocodeacademy/pacientes/service/IPacienteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyecto 1 (hospital)/pacientes/src/main/java/com/todocodeacademy/pacientes/service/PacienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../proyecto 1 (hospital)/pacientes/src/main/java/com/todocodeacademy/pacientes/service/PacienteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proyecto 1/pacientes/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "matias-devv"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/matias-devv/java-practice-microservices-spring-cloud.git",
+    "accountId": "c89cff60-a92b-44c8-baec-c51535e9dade"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="37AfuzQSckvhn9fwhFKtk4o01a2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "practice",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/matias/Descargas/Java Proyectos/Codigos TodoCode/spring cloud curso/pokemon prueba/prueba/pom.xml"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84aa7f3b-3650-47ae-b7a9-6c29c9b146e8" name="Changes" comment="" />
+      <created>1766351022887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766351022887</updated>
+    </task>
+    <servers />
+  </component>
+</project>

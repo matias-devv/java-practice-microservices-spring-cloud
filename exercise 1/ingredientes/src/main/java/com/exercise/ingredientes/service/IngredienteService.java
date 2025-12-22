@@ -23,6 +23,7 @@ public class IngredienteService implements IIngredienteService {
 
     @Override
     public List<IngredienteDTO> getIngredientes(String nombrePlato) {
+
         List<Ingrediente> listaIngredientes = ingredienteRepository.findAll();
         List<IngredienteDTO> listaRetornar = new ArrayList<>();
 
@@ -35,7 +36,7 @@ public class IngredienteService implements IIngredienteService {
             }
             for (String plato : listaPlatos){
                 if( plato.equals(nombrePlato) ){
-                     IngredienteDTO dto = convertToDTO(ingrediente);
+                     IngredienteDTO dto = this.setearDatosDTO(ingrediente);
                      listaRetornar.add(dto);
                 }
             }
@@ -43,7 +44,7 @@ public class IngredienteService implements IIngredienteService {
         return listaRetornar;
     }
 
-    private IngredienteDTO convertToDTO(Ingrediente ingrediente) {
+    private IngredienteDTO setearDatosDTO(Ingrediente ingrediente) {
         IngredienteDTO dto = new IngredienteDTO();
         dto.setId_ingrediente(ingrediente.getId_ingrediente());
         dto.setNombre_ingrediente(ingrediente.getNombre_ingrediente());

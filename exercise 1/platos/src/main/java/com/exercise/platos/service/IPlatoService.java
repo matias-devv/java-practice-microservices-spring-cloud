@@ -1,4 +1,9 @@
 package com.exercise.platos.service;
 
-public class IPlatoService {
+import com.exercise.platos.dto.PlatoDTO;
+import org.springframework.stereotype.Service;
+
+public interface IPlatoService {
+
+    public String savePlato(PlatoDTO platoDTO);
 }

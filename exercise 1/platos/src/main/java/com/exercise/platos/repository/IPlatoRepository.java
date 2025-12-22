@@ -1,4 +1,9 @@
-package com.exercise.platos;
+package com.exercise.platos.repository;
 
-public class IServiceRepository {
+import com.exercise.platos.model.Plato;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface IPlatoRepository extends JpaRepository<Plato, Long>{
 }
