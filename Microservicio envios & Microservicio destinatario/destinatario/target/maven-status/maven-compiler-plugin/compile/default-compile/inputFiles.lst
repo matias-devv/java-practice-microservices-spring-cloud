@@ -1,0 +1,8 @@
+/home/matias/Descargas/Java Proyectos/Codigos TodoCode/spring cloud curso/Microservicio envios & Microservicio destinatario/destinatario/src/main/java/com/administracion/destinatario/DestinatarioApplication.java
+/home/matias/Descargas/Java Proyectos/Codigos TodoCode/spring cloud curso/Microservicio envios & Microservicio destinatario/destinatario/src/main/java/com/administracion/destinatario/controller/DestinatarioController.java
+/home/matias/Descargas/Java Proyectos/Codigos TodoCode/spring cloud curso/Microservicio envios & Microservicio destinatario/destinatario/src/main/java/com/administracion/destinatario/dto/EnvioDTO.java
+/home/matias/Descargas/Java Proyectos/Codigos TodoCode/spring cloud curso/Microservicio envios & Microservicio destinatario/destinatario/src/main/java/com/administracion/destinatario/feign/EnvioAPIClient.java
+/home/matias/Descargas/Java Proyectos/Codigos TodoCode/spring cloud curso/Microservicio envios & Microservicio destinatario/destinatario/src/main/java/com/administracion/destinatario/model/Destinatario.java
+/home/matias/Descargas/Java Proyectos/Codigos TodoCode/spring cloud curso/Microservicio envios & Microservicio destinatario/destinatario/src/main/java/com/administracion/destinatario/repository/IDestinatarioRepository.java
+/home/matias/Descargas/Java Proyectos/Codigos TodoCode/spring cloud curso/Microservicio envios & Microservicio destinatario/destinatario/src/main/java/com/administracion/destinatario/service/DestinatarioService.java
+/home/matias/Descargas/Java Proyectos/Codigos TodoCode/spring cloud curso/Microservicio envios & Microservicio destinatario/destinatario/src/main/java/com/administracion/destinatario/service/IDestinatarioService.java
