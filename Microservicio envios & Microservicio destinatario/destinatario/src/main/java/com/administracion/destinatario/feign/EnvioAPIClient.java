@@ -10,6 +10,6 @@ import java.util.List;
 @FeignClient(name="envioapi", url = "http://localhost:9004/envio")
 public interface EnvioAPIClient {
 
-    @GetMapping("/find/{id_destinatario}")
+    @GetMapping("/traer/{id_destinatario}")
     public List<EnvioDTO> getEnviosByClient(@PathVariable Long id_destinatario);
 }
