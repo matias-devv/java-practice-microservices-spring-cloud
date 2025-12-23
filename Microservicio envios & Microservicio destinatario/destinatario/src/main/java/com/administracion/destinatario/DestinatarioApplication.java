@@ -2,8 +2,10 @@ package com.administracion.destinatario;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
+@EnableFeignClients
 public class DestinatarioApplication {
 
 	public static void main(String[] args) {
